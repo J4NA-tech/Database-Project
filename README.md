@@ -145,19 +145,6 @@ The many-to-many relationship between `Musteri` and `Mermer` is implemented thro
 
 ---
 
-## 🖼️ ER Diagram
-
-The Entity-Relationship (ER) diagram illustrates the relationships between customers, marble products, inventory management, and sales invoices.
-
-> Add the ER diagram image to this repository and link it here.
-
-Example:
-
-```markdown
-![ER Diagram](ER-Diagram.png)
-```
-
----
 
 ## 🛠️ Technologies
 
